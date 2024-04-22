@@ -193,7 +193,7 @@ ul.navbar-nav > li.active>a{color: #f16429;}
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(../images/about/welcome-banner.jpg)no-repeat;
+    background:url('../images/about/welcome-banner.JPG')no-repeat;
     background-size:cover;
     background-position: center;
     height:890px;
