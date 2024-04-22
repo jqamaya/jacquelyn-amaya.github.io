@@ -4,7 +4,7 @@ Version 1.0 14-05-2018
 - initial release 
 
 
-Credits:
+Tools Used:
 -----------------------
 - Twitter Bootstrap http://getbootstrap.com
 - jQuery http://jquery.org
