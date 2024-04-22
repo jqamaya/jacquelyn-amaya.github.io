@@ -1,7 +1,6 @@
-Changelog:
+Description:
 -----------------------
-Version 1.0 14-05-2018
-- initial release 
+- This HTML5/CSS is intended for personal portfolio website.
 
 
 Tools Used:
