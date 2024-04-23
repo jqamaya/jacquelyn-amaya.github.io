@@ -139,6 +139,11 @@ nav.navbar ul.nav > li > a {padding: 35px 20px;}
 /* nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:focus,nav.navbar.bootsnav ul.nav > li.active>a{color: #f16429;} */
 ul.nav > li.active>a{color: #f16429;}
 
+/* active nav menu */
+.nav-link.active  {
+    color: #f16429 !important;
+}
+
 nav.navbar ul.nav > li.dropdown > a.dropdown-toggle:after {
     content: "";
 }
@@ -825,7 +830,6 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     position: fixed;
     right: 30px;
     bottom: 30px;
-    display: none;
     width: 40px;
     line-height: 40px;
     height: 40px;
@@ -852,7 +856,6 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 #scroll-Top  .return-to-top i{
     position:relative;
     bottom:0;
-
 }
 
 #scroll-Top  .return-to-top i{

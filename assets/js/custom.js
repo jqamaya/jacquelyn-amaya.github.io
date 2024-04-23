@@ -26,7 +26,7 @@ $(document).ready(function(){
 			}
 		});
 		$('.return-to-top').on('click',function(){
-				$('html, body').animate({
+			$('html, body').animate({
 				scrollTop: 0
 			}, 1500);
 			return false;
@@ -54,6 +54,11 @@ $(document).ready(function(){
 		// 	target:'.navbar-collapse',
 		// 	offset:0
 		// });
+
+	$('.navbar-nav .nav-link').click(function(){
+		$('.navbar-nav .nav-link').removeClass('active');
+		$(this).addClass('active');
+	});
 
 	// 3. Progress-bar
 	
